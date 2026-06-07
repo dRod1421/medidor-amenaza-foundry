@@ -1,18 +1,11 @@
 {
   "id": "medidor-amenaza",
   "title": "Medidor de Amenaza",
-  "description": "Panel dinámico de amenaza para Ratas en las Paredes.",
   "version": "1.0.0",
-  "authors": [
-    {
-      "name": "DJ"
-    }
-  ],
+  "esmodules": ["medidor.js"],
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
-  "esmodules": [
-    "medidor.js"
-  ]
+  "download": "https://github.com/dRod1421/medidor-amenaza-foundry/releases/download/Alfa/medidor-amenaza.zip"
 }
