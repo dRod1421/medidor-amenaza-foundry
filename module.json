@@ -1,0 +1,18 @@
+{
+  "id": "medidor-amenaza",
+  "title": "Medidor de Amenaza",
+  "description": "Panel dinámico de amenaza para Ratas en las Paredes.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "DJ"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": [
+    "medidor.js"
+  ]
+}
