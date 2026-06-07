@@ -1,11 +1,12 @@
 {
   "id": "medidor-amenaza",
   "title": "Medidor de Amenaza",
+  "description": "Medidor de amenaza para Ratas en las Paredes.",
   "version": "1.0.0",
-  "esmodules": ["medidor.js"],
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
-  "download": "https://github.com/dRod1421/medidor-amenaza-foundry/releases/download/alfa2/medidor-amenaza.zip"
+  "esmodules": ["medidor.js"],
+  "download": "URL_DIRECTA_A_TU_ARCHIVO_ZIP"
 }
