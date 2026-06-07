@@ -8,5 +8,5 @@
     "verified": "13"
   },
   "esmodules": ["medidor.js"],
-  "download": "URL_DIRECTA_A_TU_ARCHIVO_ZIP"
+  "download": "https://github.com/dRod1421/medidor-amenaza-foundry/releases/download/alfa2/medidor-amenaza.zip"
 }
